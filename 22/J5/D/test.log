@@ -1,0 +1,10 @@
+2019/10/22 00:01:29 - Test Created
+2019/10/22 00:12:39 - Starting test (initiated by tester csd002.taboolasyndication.com-10.101.32.107)
+2019/10/22 00:13:15 - Test Run Complete. Run: 1, Cached: 0, Done: , Tester: csd002.taboolasyndication.com-10.101.32.107
+2019/10/22 00:13:15 - Extracting 152741 byte uploaded file '/tmp/php38xvSb' to './results/19/10/22/J5/D'
+2019/10/22 00:13:16 - Done Processing. Run: 1, Cached: 0, Done: , Tester: csd002.taboolasyndication.com-10.101.32.107
+2019/10/22 00:13:43 - Test Run Complete. Run: 1, Cached: 1, Done: 1, Tester: csd002.taboolasyndication.com-10.101.32.107
+2019/10/22 00:13:43 - Extracting 133548 byte uploaded file '/tmp/php0xElbx' to './results/19/10/22/J5/D'
+2019/10/22 00:13:44 - Done Processing. Run: 1, Cached: 1, Done: 1, Tester: csd002.taboolasyndication.com-10.101.32.107
+2019/10/22 00:13:44 - Test Complete
+2019/10/22 00:13:44 - Test post-processing complete

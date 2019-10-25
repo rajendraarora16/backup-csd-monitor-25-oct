@@ -1,0 +1,8 @@
+Test ID=191025_NF_1D
+url=https://webtest.hexun.com/static/test1.html
+fvonly=1
+runs=3
+browser=Chrome
+lighthouseTrace=1
+orientation=default
+IPAddr=172.23.15.21

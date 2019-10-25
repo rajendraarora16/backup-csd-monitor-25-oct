@@ -1,0 +1,11 @@
+Test ID=191021_MA_1
+url=https://www.google.com
+fvonly=1
+timeline=1
+timelineStackDepth=0
+Capture Video=1
+runs=1
+browser=Chrome
+lighthouseTrace=1
+orientation=default
+IPAddr=172.23.15.14
