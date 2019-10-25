@@ -1,0 +1,11 @@
+Test ID=191025_5V_1F
+url=https://webtest.hexun.com/static/test2.html
+fvonly=1
+timeline=1
+timelineStackDepth=0
+Capture Video=1
+runs=3
+browser=Chrome
+lighthouseTrace=1
+orientation=default
+IPAddr=172.23.15.21
